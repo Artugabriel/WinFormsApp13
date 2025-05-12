@@ -4,6 +4,7 @@ namespace WinFormsApp13
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -40,6 +41,17 @@ namespace WinFormsApp13
         {
             UserControl3 uc = new UserControl3();
             AddUserControl(uc);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+        DateTime timer;
+        private void timerHora_Tick(object sender, EventArgs e)
+        {
+            timer = DateTime.Now;
+            label1.Text = timer.ToLocalTime().ToString();
         }
     }
 }

@@ -43,6 +43,7 @@
             btnSaude = new Guna.UI2.WinForms.Guna2Button();
             btnCadastro = new Guna.UI2.WinForms.Guna2Button();
             panelContainer = new Panel();
+            button1 = new Button();
             timerHora = new System.Windows.Forms.Timer(components);
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -145,11 +146,20 @@
             // panelContainer
             // 
             panelContainer.BackColor = Color.AliceBlue;
-            panelContainer.Dock = DockStyle.Fill;
-            panelContainer.Location = new Point(0, 81);
+            panelContainer.Location = new Point(0, 80);
             panelContainer.Name = "panelContainer";
-            panelContainer.Size = new Size(800, 369);
+            panelContainer.Size = new Size(800, 419);
             panelContainer.TabIndex = 2;
+            // 
+            // button1
+            // 
+            button1.AutoSize = true;
+            button1.Location = new Point(713, 502);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 25);
+            button1.TabIndex = 3;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
             // 
             // timerHora
             // 
@@ -162,8 +172,9 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightBlue;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 526);
             ControlBox = false;
+            Controls.Add(button1);
             Controls.Add(panelContainer);
             Controls.Add(panel2);
             Controls.Add(panel1);
@@ -177,6 +188,7 @@
             panel1.PerformLayout();
             panel2.ResumeLayout(false);
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -190,5 +202,6 @@
         private Label label1;
         private System.Windows.Forms.Timer timerHora;
         private Label label2;
+        private Button button1;
     }
 }

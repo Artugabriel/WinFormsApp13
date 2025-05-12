@@ -52,7 +52,7 @@
             // 
             // mskTemperatura
             // 
-            mskTemperatura.Location = new Point(610, 255);
+            mskTemperatura.Location = new Point(602, 154);
             mskTemperatura.Mask = "00,00";
             mskTemperatura.Name = "mskTemperatura";
             mskTemperatura.Size = new Size(100, 23);
@@ -62,7 +62,7 @@
             // label18
             // 
             label18.AutoSize = true;
-            label18.Location = new Point(493, 258);
+            label18.Location = new Point(485, 157);
             label18.Name = "label18";
             label18.Size = new Size(111, 15);
             label18.TabIndex = 38;
@@ -70,7 +70,7 @@
             // 
             // mskFrequenciaCardiaca
             // 
-            mskFrequenciaCardiaca.Location = new Point(610, 223);
+            mskFrequenciaCardiaca.Location = new Point(602, 122);
             mskFrequenciaCardiaca.Mask = "000";
             mskFrequenciaCardiaca.Name = "mskFrequenciaCardiaca";
             mskFrequenciaCardiaca.Size = new Size(100, 23);
@@ -80,7 +80,7 @@
             // label17
             // 
             label17.AutoSize = true;
-            label17.Location = new Point(444, 226);
+            label17.Location = new Point(436, 125);
             label17.Name = "label17";
             label17.Size = new Size(160, 15);
             label17.TabIndex = 36;
@@ -89,7 +89,7 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Location = new Point(467, 194);
+            label16.Location = new Point(459, 93);
             label16.Name = "label16";
             label16.Size = new Size(137, 15);
             label16.TabIndex = 35;
@@ -98,14 +98,14 @@
             // cmbPressaoArterial
             // 
             cmbPressaoArterial.FormattingEnabled = true;
-            cmbPressaoArterial.Location = new Point(610, 194);
+            cmbPressaoArterial.Location = new Point(602, 93);
             cmbPressaoArterial.Name = "cmbPressaoArterial";
             cmbPressaoArterial.Size = new Size(114, 23);
             cmbPressaoArterial.TabIndex = 34;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(214, 189);
+            textBox2.Location = new Point(206, 88);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(114, 23);
             textBox2.TabIndex = 33;
@@ -113,7 +113,7 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Location = new Point(53, 195);
+            label15.Location = new Point(45, 94);
             label15.Name = "label15";
             label15.Size = new Size(155, 15);
             label15.TabIndex = 32;
@@ -121,7 +121,7 @@
             // 
             // txtAlergias
             // 
-            txtAlergias.Location = new Point(214, 160);
+            txtAlergias.Location = new Point(206, 59);
             txtAlergias.Name = "txtAlergias";
             txtAlergias.Size = new Size(114, 23);
             txtAlergias.TabIndex = 31;
@@ -129,7 +129,7 @@
             // label14
             // 
             label14.AutoSize = true;
-            label14.Location = new Point(121, 168);
+            label14.Location = new Point(113, 67);
             label14.Name = "label14";
             label14.Size = new Size(87, 15);
             label14.TabIndex = 30;
@@ -138,7 +138,7 @@
             // label13
             // 
             label13.AutoSize = true;
-            label13.Location = new Point(88, 253);
+            label13.Location = new Point(80, 152);
             label13.Name = "label13";
             label13.Size = new Size(120, 15);
             label13.TabIndex = 29;
@@ -147,14 +147,14 @@
             // cmbTipoSanguinio
             // 
             cmbTipoSanguinio.FormattingEnabled = true;
-            cmbTipoSanguinio.Location = new Point(214, 250);
+            cmbTipoSanguinio.Location = new Point(206, 149);
             cmbTipoSanguinio.Name = "cmbTipoSanguinio";
             cmbTipoSanguinio.Size = new Size(121, 23);
             cmbTipoSanguinio.TabIndex = 28;
             // 
             // txtDeficiencias
             // 
-            txtDeficiencias.Location = new Point(214, 218);
+            txtDeficiencias.Location = new Point(206, 117);
             txtDeficiencias.Name = "txtDeficiencias";
             txtDeficiencias.Size = new Size(114, 23);
             txtDeficiencias.TabIndex = 27;
@@ -162,7 +162,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(105, 221);
+            label6.Location = new Point(97, 120);
             label6.Name = "label6";
             label6.Size = new Size(103, 15);
             label6.TabIndex = 26;
@@ -170,7 +170,7 @@
             // 
             // txtDoencas
             // 
-            txtDoencas.Location = new Point(214, 131);
+            txtDoencas.Location = new Point(206, 30);
             txtDoencas.Name = "txtDoencas";
             txtDoencas.Size = new Size(243, 23);
             txtDoencas.TabIndex = 25;
@@ -178,7 +178,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(125, 134);
+            label5.Location = new Point(117, 33);
             label5.Name = "label5";
             label5.Size = new Size(83, 15);
             label5.TabIndex = 24;
@@ -186,7 +186,7 @@
             // 
             // mskPeso
             // 
-            mskPeso.Location = new Point(610, 160);
+            mskPeso.Location = new Point(602, 59);
             mskPeso.Mask = "00,00";
             mskPeso.Name = "mskPeso";
             mskPeso.Size = new Size(100, 23);
@@ -196,7 +196,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(547, 165);
+            label4.Location = new Point(539, 64);
             label4.Name = "label4";
             label4.Size = new Size(57, 15);
             label4.TabIndex = 22;
@@ -204,7 +204,7 @@
             // 
             // mskAltura
             // 
-            mskAltura.Location = new Point(610, 131);
+            mskAltura.Location = new Point(602, 30);
             mskAltura.Mask = "00,00";
             mskAltura.Name = "mskAltura";
             mskAltura.Size = new Size(100, 23);
@@ -214,7 +214,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(533, 139);
+            label3.Location = new Point(525, 38);
             label3.Name = "label3";
             label3.Size = new Size(71, 15);
             label3.TabIndex = 20;

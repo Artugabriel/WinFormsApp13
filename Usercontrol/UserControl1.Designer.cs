@@ -65,7 +65,7 @@
             // cmbSexo
             // 
             cmbSexo.FormattingEnabled = true;
-            cmbSexo.Location = new Point(633, 84);
+            cmbSexo.Location = new Point(632, 62);
             cmbSexo.Name = "cmbSexo";
             cmbSexo.Size = new Size(119, 23);
             cmbSexo.TabIndex = 48;
@@ -73,14 +73,14 @@
             // cmbRaca
             // 
             cmbRaca.FormattingEnabled = true;
-            cmbRaca.Location = new Point(633, 174);
+            cmbRaca.Location = new Point(632, 152);
             cmbRaca.Name = "cmbRaca";
             cmbRaca.Size = new Size(119, 23);
             cmbRaca.TabIndex = 52;
             // 
             // txtNomeSocial
             // 
-            txtNomeSocial.Location = new Point(226, 81);
+            txtNomeSocial.Location = new Point(225, 59);
             txtNomeSocial.Name = "txtNomeSocial";
             txtNomeSocial.Size = new Size(220, 23);
             txtNomeSocial.TabIndex = 38;
@@ -89,7 +89,7 @@
             // 
             label19.AutoSize = true;
             label19.BackColor = Color.Transparent;
-            label19.Location = new Point(65, 84);
+            label19.Location = new Point(64, 62);
             label19.Name = "label19";
             label19.Size = new Size(155, 15);
             label19.TabIndex = 67;
@@ -97,7 +97,7 @@
             // 
             // txtNomeCompleto
             // 
-            txtNomeCompleto.Location = new Point(226, 52);
+            txtNomeCompleto.Location = new Point(225, 30);
             txtNomeCompleto.Name = "txtNomeCompleto";
             txtNomeCompleto.Size = new Size(220, 23);
             txtNomeCompleto.TabIndex = 36;
@@ -106,7 +106,7 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Location = new Point(95, 55);
+            label2.Location = new Point(94, 33);
             label2.Name = "label2";
             label2.Size = new Size(125, 15);
             label2.TabIndex = 37;
@@ -115,7 +115,7 @@
             // txtEstado
             // 
             txtEstado.Enabled = false;
-            txtEstado.Location = new Point(424, 287);
+            txtEstado.Location = new Point(423, 265);
             txtEstado.Name = "txtEstado";
             txtEstado.Size = new Size(95, 23);
             txtEstado.TabIndex = 63;
@@ -124,7 +124,7 @@
             // 
             lblRaca.AutoSize = true;
             lblRaca.BackColor = Color.Transparent;
-            lblRaca.Location = new Point(567, 177);
+            lblRaca.Location = new Point(566, 155);
             lblRaca.Name = "lblRaca";
             lblRaca.Size = new Size(60, 15);
             lblRaca.TabIndex = 66;
@@ -134,7 +134,7 @@
             // 
             label12.AutoSize = true;
             label12.BackColor = Color.Transparent;
-            label12.Location = new Point(388, 290);
+            label12.Location = new Point(387, 268);
             label12.Name = "label12";
             label12.Size = new Size(30, 15);
             label12.TabIndex = 62;
@@ -144,7 +144,7 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Location = new Point(101, 112);
+            label3.Location = new Point(100, 90);
             label3.Name = "label3";
             label3.Size = new Size(119, 15);
             label3.TabIndex = 54;
@@ -152,7 +152,7 @@
             // 
             // txtComplemento
             // 
-            txtComplemento.Location = new Point(226, 316);
+            txtComplemento.Location = new Point(225, 294);
             txtComplemento.Name = "txtComplemento";
             txtComplemento.Size = new Size(220, 23);
             txtComplemento.TabIndex = 44;
@@ -161,7 +161,7 @@
             // 
             label10.AutoSize = true;
             label10.BackColor = Color.Transparent;
-            label10.Location = new Point(104, 319);
+            label10.Location = new Point(103, 297);
             label10.Name = "label10";
             label10.Size = new Size(116, 15);
             label10.TabIndex = 61;
@@ -169,7 +169,7 @@
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(226, 109);
+            txtEmail.Location = new Point(225, 87);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(220, 23);
             txtEmail.TabIndex = 39;
@@ -177,14 +177,14 @@
             // txtCidade
             // 
             txtCidade.Enabled = false;
-            txtCidade.Location = new Point(226, 287);
+            txtCidade.Location = new Point(225, 265);
             txtCidade.Name = "txtCidade";
             txtCidade.Size = new Size(143, 23);
             txtCidade.TabIndex = 60;
             // 
             // mskNumeroSecundarioCLL
             // 
-            mskNumeroSecundarioCLL.Location = new Point(226, 171);
+            mskNumeroSecundarioCLL.Location = new Point(225, 149);
             mskNumeroSecundarioCLL.Mask = "(00) 00000-0000";
             mskNumeroSecundarioCLL.Name = "mskNumeroSecundarioCLL";
             mskNumeroSecundarioCLL.Size = new Size(120, 23);
@@ -196,7 +196,7 @@
             // 
             label11.AutoSize = true;
             label11.BackColor = Color.Transparent;
-            label11.Location = new Point(163, 290);
+            label11.Location = new Point(162, 268);
             label11.Name = "label11";
             label11.Size = new Size(57, 15);
             label11.TabIndex = 59;
@@ -206,7 +206,7 @@
             // 
             lblTelefone.AutoSize = true;
             lblTelefone.BackColor = Color.Transparent;
-            lblTelefone.Location = new Point(136, 145);
+            lblTelefone.Location = new Point(135, 123);
             lblTelefone.Name = "lblTelefone";
             lblTelefone.Size = new Size(86, 15);
             lblTelefone.TabIndex = 64;
@@ -215,7 +215,7 @@
             // txtBairro
             // 
             txtBairro.Enabled = false;
-            txtBairro.Location = new Point(226, 258);
+            txtBairro.Location = new Point(225, 236);
             txtBairro.Name = "txtBairro";
             txtBairro.Size = new Size(220, 23);
             txtBairro.TabIndex = 58;
@@ -224,7 +224,7 @@
             // 
             label9.AutoSize = true;
             label9.BackColor = Color.Transparent;
-            label9.Location = new Point(163, 261);
+            label9.Location = new Point(162, 239);
             label9.Name = "label9";
             label9.Size = new Size(57, 15);
             label9.TabIndex = 57;
@@ -234,7 +234,7 @@
             // 
             lblNumeroSecundarioCLL.AutoSize = true;
             lblNumeroSecundarioCLL.BackColor = Color.Transparent;
-            lblNumeroSecundarioCLL.Location = new Point(136, 174);
+            lblNumeroSecundarioCLL.Location = new Point(135, 152);
             lblNumeroSecundarioCLL.Name = "lblNumeroSecundarioCLL";
             lblNumeroSecundarioCLL.Size = new Size(84, 15);
             lblNumeroSecundarioCLL.TabIndex = 65;
@@ -243,14 +243,14 @@
             // txtEndereco
             // 
             txtEndereco.Enabled = false;
-            txtEndereco.Location = new Point(226, 229);
+            txtEndereco.Location = new Point(225, 207);
             txtEndereco.Name = "txtEndereco";
             txtEndereco.Size = new Size(220, 23);
             txtEndereco.TabIndex = 45;
             // 
             // mskNumeroPrincipalCLL
             // 
-            mskNumeroPrincipalCLL.Location = new Point(226, 142);
+            mskNumeroPrincipalCLL.Location = new Point(225, 120);
             mskNumeroPrincipalCLL.Mask = "(00) 00000-0000";
             mskNumeroPrincipalCLL.Name = "mskNumeroPrincipalCLL";
             mskNumeroPrincipalCLL.Size = new Size(120, 23);
@@ -263,7 +263,7 @@
             // 
             label8.AutoSize = true;
             label8.BackColor = Color.Transparent;
-            label8.Location = new Point(145, 232);
+            label8.Location = new Point(144, 210);
             label8.Name = "label8";
             label8.Size = new Size(75, 15);
             label8.TabIndex = 56;
@@ -271,7 +271,7 @@
             // 
             // mskNascimento
             // 
-            mskNascimento.Location = new Point(633, 52);
+            mskNascimento.Location = new Point(632, 30);
             mskNascimento.Mask = "00/00/0000";
             mskNascimento.Name = "mskNascimento";
             mskNascimento.Size = new Size(119, 23);
@@ -281,7 +281,7 @@
             // 
             // mskCEP
             // 
-            mskCEP.Location = new Point(226, 200);
+            mskCEP.Location = new Point(225, 178);
             mskCEP.Mask = "00000000";
             mskCEP.Name = "mskCEP";
             mskCEP.Size = new Size(120, 23);
@@ -293,7 +293,7 @@
             // 
             lblDatadeNasc.AutoSize = true;
             lblDatadeNasc.BackColor = Color.Transparent;
-            lblDatadeNasc.Location = new Point(482, 52);
+            lblDatadeNasc.Location = new Point(481, 30);
             lblDatadeNasc.Name = "lblDatadeNasc";
             lblDatadeNasc.Size = new Size(145, 15);
             lblDatadeNasc.TabIndex = 41;
@@ -303,7 +303,7 @@
             // 
             label7.AutoSize = true;
             label7.BackColor = Color.Transparent;
-            label7.Location = new Point(167, 203);
+            label7.Location = new Point(166, 181);
             label7.Name = "label7";
             label7.Size = new Size(53, 15);
             label7.TabIndex = 55;
@@ -313,7 +313,7 @@
             // 
             lblSexo.AutoSize = true;
             lblSexo.BackColor = Color.Transparent;
-            lblSexo.Location = new Point(573, 84);
+            lblSexo.Location = new Point(572, 62);
             lblSexo.Name = "lblSexo";
             lblSexo.Size = new Size(54, 15);
             lblSexo.TabIndex = 46;
@@ -321,7 +321,7 @@
             // 
             // mskCPF
             // 
-            mskCPF.Location = new Point(633, 113);
+            mskCPF.Location = new Point(632, 91);
             mskCPF.Mask = "000.000.000-00";
             mskCPF.Name = "mskCPF";
             mskCPF.Size = new Size(119, 23);
@@ -334,7 +334,7 @@
             // 
             lblCPF.AutoSize = true;
             lblCPF.BackColor = Color.Transparent;
-            lblCPF.Location = new Point(580, 117);
+            lblCPF.Location = new Point(579, 95);
             lblCPF.Name = "lblCPF";
             lblCPF.Size = new Size(47, 15);
             lblCPF.TabIndex = 49;
@@ -344,7 +344,7 @@
             // 
             lblCartaoSUS.AutoSize = true;
             lblCartaoSUS.BackColor = Color.Transparent;
-            lblCartaoSUS.Location = new Point(514, 145);
+            lblCartaoSUS.Location = new Point(513, 123);
             lblCartaoSUS.Name = "lblCartaoSUS";
             lblCartaoSUS.Size = new Size(113, 15);
             lblCartaoSUS.TabIndex = 53;
@@ -352,7 +352,7 @@
             // 
             // mskSUS
             // 
-            mskSUS.Location = new Point(633, 142);
+            mskSUS.Location = new Point(632, 120);
             mskSUS.Mask = "00000000000  0000 0";
             mskSUS.Name = "mskSUS";
             mskSUS.Size = new Size(119, 23);

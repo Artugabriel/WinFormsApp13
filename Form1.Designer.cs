@@ -161,10 +161,14 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.LightBlue;
             ClientSize = new Size(800, 450);
+            ControlBox = false;
             Controls.Add(panelContainer);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
             Text = "Form1";
             WindowState = FormWindowState.Minimized;

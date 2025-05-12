@@ -39,7 +39,7 @@
             // cmbEmcaminhar
             // 
             cmbEmcaminhar.FormattingEnabled = true;
-            cmbEmcaminhar.Location = new Point(274, 160);
+            cmbEmcaminhar.Location = new Point(285, 70);
             cmbEmcaminhar.Name = "cmbEmcaminhar";
             cmbEmcaminhar.Size = new Size(121, 23);
             cmbEmcaminhar.TabIndex = 11;
@@ -47,14 +47,14 @@
             // cmbClassRisco
             // 
             cmbClassRisco.FormattingEnabled = true;
-            cmbClassRisco.Location = new Point(274, 102);
+            cmbClassRisco.Location = new Point(285, 31);
             cmbClassRisco.Name = "cmbClassRisco";
             cmbClassRisco.Size = new Size(121, 23);
             cmbClassRisco.TabIndex = 10;
             // 
             // txtSintomas
             // 
-            txtSintomas.Location = new Point(274, 220);
+            txtSintomas.Location = new Point(285, 116);
             txtSintomas.Multiline = true;
             txtSintomas.Name = "txtSintomas";
             txtSintomas.Size = new Size(313, 110);
@@ -63,29 +63,29 @@
             // label22
             // 
             label22.AutoSize = true;
-            label22.Location = new Point(209, 223);
+            label22.Location = new Point(212, 116);
             label22.Name = "label22";
-            label22.Size = new Size(59, 15);
+            label22.Size = new Size(67, 15);
             label22.TabIndex = 8;
-            label22.Text = "Sintomas:";
+            label22.Text = "SINTOMAS:";
             // 
             // label21
             // 
             label21.AutoSize = true;
-            label21.Location = new Point(137, 105);
+            label21.Location = new Point(126, 34);
             label21.Name = "label21";
-            label21.Size = new Size(131, 15);
+            label21.Size = new Size(153, 15);
             label21.TabIndex = 7;
-            label21.Text = "Classificação de Risco : ";
+            label21.Text = "CLASSIFICAÇÃO DE RISCO: ";
             // 
             // label20
             // 
             label20.AutoSize = true;
-            label20.Location = new Point(160, 163);
+            label20.Location = new Point(156, 73);
             label20.Name = "label20";
-            label20.Size = new Size(108, 15);
+            label20.Size = new Size(123, 15);
             label20.TabIndex = 6;
-            label20.Text = "Emcaminhamento:";
+            label20.Text = "EMCAMINHAMENTO:";
             // 
             // UserControl3
             // 
